@@ -1,7 +1,9 @@
-👨‍💻 Victor Sousa
+👨‍💻 Victor
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=500&lines=Estudante+de+ADS;Futuro+Desenvolvedor;Apaixonado+por+Tecnologia" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=71DDF7&width=435&lines=Estudante+de+TI+;ADS;Futuro+Desenvolvedor" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
@@ -10,7 +12,7 @@
 
 Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em tecnologia, desenvolvimento de sistemas e resolução de problemas.
 
-Tenho experiência com projetos acadêmicos, desenvolvendo aplicações web e aplicando lógica de programação. Também atuo como **técnico de informática autônomo**, realizando manutenção, suporte e configuração de sistemas.
+Tenho experiência com projetos acadêmicos, desenvolvendo aplicações web e aplicando lógica de programação. Também atuo como *técnico de informática autônomo*, realizando manutenção, suporte e configuração de sistemas.
 
 🎯 Busco minha primeira oportunidade na área de tecnologia para crescer profissionalmente e contribuir com soluções eficientes.
 
@@ -32,10 +34,11 @@ Tenho experiência com projetos acadêmicos, desenvolvendo aplicações web e ap
 - Estrutura de Dados  
 - Banco de Dados  
 - Lógica de Programação Avançada  
+- Java
 
 ---
 
- 💼 Experiência
+     Experiência
 
  🖥️ Desenvolvedor de Sistemas (Acadêmico)
 📍 Anhanguera | 2024 – Atual  
@@ -64,27 +67,27 @@ Tenho experiência com projetos acadêmicos, desenvolvendo aplicações web e ap
 
  🔥 Projetos em destaque
 
-📌 📱 **Sistema de Agenda (Android Studio – Java)**  
+📌 📱 Sistema de Agenda (Android Studio – Java)
 - Aplicação mobile para organização de compromissos  
 - Implementação de lógica de programação e estrutura de dados  
 - Interface com foco em usabilidade  
 
-📌 📚 **Sistema de Biblioteca (Java – Eclipse)**  
+📌 📚 Sistema de Biblioteca (Java – Eclipse)
 - Gerenciamento de empréstimos e controle de acervo  
 - Aplicação de Programação Orientada a Objetos (POO)  
 - Estruturação de classes e organização de código  
 
-📌 🐾 **Sistema de Clínica Veterinária (Java – Eclipse)**  
+📌 🐾 Sistema de Clínica Veterinária (Java – Eclipse)
 - Cadastro e gerenciamento de clientes e animais  
 - Implementação de lógica de negócios  
 - Simulação de sistema administrativo  
 
-📌 🚗 **Sistema de Controle de Estacionamento (Android Studio – Java)**  
+📌 🚗 Sistema de Controle de Estacionamento (Android Studio – Java)
 - Controle de entrada e saída de veículos  
 - Gerenciamento de vagas com lógica de programação  
 - Organização de fluxo de dados  
 
-📌 🌐 **Desenvolvimento Web (HTML e CSS)**  
+📌 🌐 Desenvolvimento Web (HTML e CSS)
 - Criação de páginas responsivas  
 - Estruturação de layouts  
 - Boas práticas de design e usabilidade  
