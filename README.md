@@ -1,10 +1,10 @@
 👨‍💻 Victor
 
-<p align="center">
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=71DDF7&width=435&lines=Estudante+de+TI+;ADS;Futuro+Desenvolvedor" alt="Typing SVG" />
   </a>
-</p>
+</div>
 
 ---
 
